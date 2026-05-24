@@ -1,3 +1,7 @@
+## 🌐 Live Demo
+
+https://smartagecalculator.onrender.com
+
 # Smart Age Calculator
 
 A responsive full stack web application built using Flask, HTML, CSS, JavaScript, and SQLite.
