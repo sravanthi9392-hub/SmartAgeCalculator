@@ -58,20 +58,29 @@ SmartAgeCalculator/
 # 📸 Screenshots
 
 ## 🔐 Login Page
-<img width="836" height="732" alt="image" src="https://github.com/user-attachments/assets/362f31cd-3f8c-4585-b44b-f739dec48af4" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/362f31cd-3f8c-4585-b44b-f739dec48af4" />
 
 ## 📝 Signup Page
-<img width="842" height="731" alt="image" src="https://github.com/user-attachments/assets/341d6af6-d531-44d0-ad8c-77b5356901cd" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/341d6af6-d531-44d0-ad8c-77b5356901cd" />
 
 ## 📊 Dashboard
 
-<img width="810" height="628" alt="image" src="https://github.com/user-attachments/assets/fe160421-81e8-4581-9f85-c761ca55ba04" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/fe160421-81e8-4581-9f85-c761ca55ba04" />
 
-<img width="823" height="813" alt="image" src="https://github.com/user-attachments/assets/890c92e1-5582-4d17-b6cc-42cc250ed177" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/890c92e1-5582-4d17-b6cc-42cc250ed177" />
 
-<img width="790" height="826" alt="image" src="https://github.com/user-attachments/assets/65eebd2d-003d-4c66-b51a-14b50d79b695" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/65eebd2d-003d-4c66-b51a-14b50d79b695" />
 
-<img width="799" height="792" alt="image" src="https://github.com/user-attachments/assets/b0c13672-d65c-4d4d-816e-89291b472bc2" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/b0c13672-d65c-4d4d-816e-89291b472bc2" />
+
+## Database
+
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/0cb28eef-86b2-4959-b008-7d0bc294fe42" />
+
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/89ddd4c7-96b4-48e9-84e2-d632a8943d5d" />
+
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/1416e9e5-21b9-4e0c-8672-36f350749138" />
+
 
 ---
 
